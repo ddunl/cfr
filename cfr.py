@@ -1,5 +1,4 @@
 import random
-from collections import defaultdict
 
 class Node:
     def __init__(self, info_set):
